@@ -1,0 +1,8 @@
+Python 3.x
+Gradio
+Pandas
+Matplotlib
+Numpy
+Python-dotenv
+langchain-chroma
+transformers
